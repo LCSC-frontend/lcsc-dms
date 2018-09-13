@@ -1,7 +1,6 @@
 {
   "name": "lcsc-dms",
   "version": "0.1.0",
-  "test": 1,
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
